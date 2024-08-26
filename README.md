@@ -127,7 +127,7 @@ View the [Developer Code Examples page](https://docs.celo.org/developer#quicksta
 -   [Valora](https://valoraapp.com/) provides a clean, intuitive UI where users can send transactions and interact with smart contracts
 -   [Forno](https://stackedit.io/developer-guide/forno)
 -   Node access service so you can connect your dapp to the Celo blockchain without having to run node infrastructure
--   [ODIS](https://stackedit.io/developer-resources/contractkit/odis.md)
+-   [ODIS](https://docs.celo.org/protocol/identity/odis)
 -   Oblivious decentralized identity service
 -   Lightweight identity layer that makes it easy to send cryptocurrency to a phone number
 -   Blockscout block explorers
